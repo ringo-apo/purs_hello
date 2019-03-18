@@ -4,4 +4,4 @@
 ```
 pulp run
 ```
-ブラウザで[localhost:3000](localhost:3000)にアクセス  
+ブラウザで[localhost:8080](localhost:8080)にアクセス  
